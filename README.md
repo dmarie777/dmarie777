@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mariela</h1>
-<h3 align="center">A passionate web developer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmarie777&label=Profile%20views&color=0e75b6&style=flat" alt="dmarie777" /> </p>
 
