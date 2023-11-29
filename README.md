@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmarie777&label=Profile%20views&color=0e75b6&style=flat" alt="dmarie777" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=2262BD&repeat=false&random=false&width=3000&height=80&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=2262BD&repeat=true&random=false&width=3000&height=80&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -20,4 +20,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=2262BD&repeat=false&random=false&width=3000&height=80&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=2262BD&repeat=true&random=false&width=3000&height=80&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
