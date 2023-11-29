@@ -20,4 +20,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=2262BD&repeat=false&random=false&width=3000&height=20&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=2262BD&repeat=false&random=false&width=3000&height=80&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
